@@ -1,3 +1,3 @@
 # TCC
 
-print("Trabalho de Conclusão de Curso")
+Trabalho de Conclusão de Curso
